@@ -1,0 +1,27 @@
+<html>
+   <head>
+      <title> article one </title> 
+      <meta name = "viewport" content = "width=device-width, initial-scale=1"/>
+    </head> 
+    <body>
+        <div>
+            <a href = "/">Home</a>
+        </div>
+        <hr/>
+        <div>
+            <h3>Article One</h3>
+        </div>
+        <div>
+            Aug 08, 2017
+        </div>
+        <div> 
+         <p>
+             Content of the article one. I am anu agarwal
+        </p>   
+         <p>
+             Content of the article one. I am anu agarwal
+        </p>
+        
+       </div>
+     </body>
+ </html>
